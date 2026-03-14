@@ -1,3 +1,34 @@
+## Project Description
+
+## Features
+
+
+## Technologies Used
+
+
+## Installation Steps
+1. Clone the repository
+git clone https://github.com/PANJAMYNASAIRAM/wordcount.git
+
+2. Go to project folder
+cd wordcount
+
+3. Install dependencies
+npm install
+
+4. Start the project
+npm start
+
+## Live Demo
+https://PANJAMYNASAIRAM.github.io/wordcount 
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
