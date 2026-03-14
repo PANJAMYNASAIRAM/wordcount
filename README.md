@@ -32,13 +32,13 @@ React Component State & Event Handling
 git clone https://github.com/PANJAMYNASAIRAM/wordcount.git
 
 2. Go to project folder
-cd wordcount
+"cd wordcount"
 
 3. Install dependencies
-npm install
+"npm install"
 
 4. Start the project
-npm start
+"npm start"
 
 ## Live Demo
 https://PANJAMYNASAIRAM.github.io/wordcount 
